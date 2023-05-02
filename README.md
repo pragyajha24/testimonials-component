@@ -1,5 +1,7 @@
 # Frontend Mentor - Testimonials grid section
 
+https://pragyajha24.github.io/testimonials-component/
+
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
